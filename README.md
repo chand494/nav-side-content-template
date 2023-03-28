@@ -1,0 +1,1 @@
+# nav-side-content-template
